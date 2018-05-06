@@ -1,3 +1,5 @@
+![screenshot](https://github.com/porras/crystal-rubyunconf2018-hamburg/raw/master/screen.png)
+
 Crystal
 =======
 
